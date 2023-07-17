@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.check.targets": [
+        "x86_64-unknown-none"
+    ],
+    "rust-analyzer.check.allTargets": false,
+    "rust-analyzer.server.path": "/home/sam/.rustup/toolchains/nightly-x86_64-unknown-freebsd/bin/rust-analyzer"
+}
